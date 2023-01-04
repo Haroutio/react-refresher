@@ -1,3 +1,5 @@
 # React Refresher
 
-This will be the third video tutorial I will be following, which is Traversy Medias ReactJS Crash Course on YouTube. With the documentation and a notebook by my side, I'm hoping to push through and go through this tutorial as much as I need to in order to fully process what each line of code is doing. After this tutorial I'm going to jump right into just building a bunch of React projects. Unfortunately, being away from web development has made me very rusty. So much so, that I barely remember anything from React and it simply looks unfamiliar. I'll be focusing solely on React for the time being and will aim at building a few projects after this tutorial, seeing as it's my weakest link as of right now.
+This will be the third video tutorial I will be following, which is Traversy Medias ReactJS Crash Course on YouTube. With the documentation and a notebook by my side, I'm hoping to push through and go through this tutorial as though I'm a beginner. A lot has changed since I worked with React.
+
+UPDATE: After completing this tutorial, it's become clear that time is the enemy and a lot has changed. Overall it seems pretty simple once you get going and making changes becomes a breeze. I'll be working on some react projects after this to get some practice hours in.
